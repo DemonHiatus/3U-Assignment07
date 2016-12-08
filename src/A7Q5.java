@@ -5,7 +5,6 @@ import java.util.Scanner;
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-
 /**
  *
  * @author baayl3669
@@ -61,7 +60,7 @@ public class A7Q5 {
             // if there is a remainder find the other middle number 
             int middle = answer - 1;
             // find the average of the 2 middle updates
-            int OtherMedian = (array[answer] + array[middle])/2;
+            int OtherMedian = (array[answer] + array[middle]) / 2;
             // output the average of the median
             System.out.println("The median is " + OtherMedian);
 
