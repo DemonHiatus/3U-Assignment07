@@ -34,7 +34,7 @@ public class A7Q2 {
             total = total + nums[i];
         }
         total = total / people;
-        //print out total
+        // print out total
         System.out.println("The average height is " + total);
 
         for (int i = 0; i < nums.length; i++) {
