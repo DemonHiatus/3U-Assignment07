@@ -15,7 +15,7 @@ public class A7Q3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // create scanner 
+        // create a scanner 
         Scanner in = new Scanner(System.in);
 
         // create an array with two spots
