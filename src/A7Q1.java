@@ -16,7 +16,7 @@ public class A7Q1 {
      */
     public static void main(String[] args) {
 
-        // create scanner 
+        // create a scanner 
         Scanner in = new Scanner(System.in);
 
         // ask user how many students in the class
