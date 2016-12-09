@@ -15,7 +15,7 @@ public class A7Q5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // create a scanner
+        // Create a scanner
         Scanner in = new Scanner(System.in);
 
         // ask user for length 
