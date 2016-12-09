@@ -15,7 +15,7 @@ public class A7Q2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // create scanner
+        // create a scanner
         Scanner in = new Scanner(System.in);
 
         // ask the user how many students are in the class
