@@ -15,6 +15,7 @@ public class A7Q7 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // create scanner
         Scanner in = new Scanner(System.in);
 
         int PrimeNumber[] = new int[1001];
