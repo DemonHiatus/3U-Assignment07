@@ -32,7 +32,7 @@ public class A7Q4 {
             for (int k = 0; k < 10; k++) {
                 int x = marks[i];
                 int y = marks[k];
-                // Sorting the numbers 
+                // Sort the numbers 
                 if (marks[i] < marks[k]) {
                     marks[i] = y;
                     marks[k] = x;
